@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 sami sami 4096 Mar  8 20:26 .
+drwxrwxr-x 6 sami sami 4096 Mar  8 19:29 ..
+-rwxrwxr-x 1 sami sami   30 Mar  8 19:58 0-hello_world
+-rwxrwxr-x 1 sami sami   28 Mar  8 19:53 1-confused_smiley
+-rwxrwxr-x 1 sami sami   28 Mar  8 20:09 2-hellofile
+-rwxrwxr-x 1 sami sami   39 Mar  8 20:09 3-twofiles
+-rwxrwxr-x 1 sami sami   35 Mar  8 20:10 4-lastlines
+-rwxrwxr-x 1 sami sami   35 Mar  8 20:10 5-firstlines
+-rwxrwxr-x 1 sami sami   28 Mar  8 20:13 6-third_line
+-rwxrwxr-x 1 sami sami   96 Mar  8 20:24 7-file
+-rwxrwxr-x 1 sami sami   36 Mar  8 20:26 8-cwd_state
+-rw-rw-r-- 1 sami sami   12 Mar  8 20:24 *\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 sami sami    4 Mar  8 20:13 iacta
+-rw-rw-r-- 1 sami sami    0 Mar  8 20:26 ls_cwd_content
