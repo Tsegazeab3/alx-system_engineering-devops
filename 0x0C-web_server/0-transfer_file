@@ -9,7 +9,7 @@ IP=${2}
 user_name=${3}
 key_path=${4}
 # checking if there are four arguments
-if [ "$#" -eq 4]; then
+if [ "$#" -eq 4 ] ; then
 	scp -i "$key_path" -o StrictHostKeyChecking=no "$bash_path"/"$file_path" "$user_name"@"$IP":/home/"$user_name"/
 else
 	echo -e "Usage: "$bash_name" PATH_TO_FILE IP USERNAME PATH_TO_SSH_KEY"
