@@ -1,0 +1,1 @@
+The aim of this project is to configure an Nginx web server to efficiently handle a high volume of simultaneous requests. In this web stack debugging task, we're testing the performance of our Nginx server under stress and using a Puppet manifest to ensure Nginx operates with zero failed requests.
